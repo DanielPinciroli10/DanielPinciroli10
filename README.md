@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola, soy Daniel Pinciroli, estudiante de segundo año de la Tecnicatura Universitaria en Programación en la Universidad Tecnológica Nacional-sede San Francisco (cba)👋
 
 <!--
 **DanielPinciroli10/DanielPinciroli10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
